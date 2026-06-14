@@ -64,7 +64,7 @@ const theoryHTML = `
                 <a href="https://forms.gle/96hGa7QN4fYTZjbAA" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: #10B981; color: white; padding: 13px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 1rem; box-shadow: 0 2px 6px rgba(16, 185, 129, 0.3);">
                     Trimite textul Claudiei →
                 </a>
-                <p style="color: #6b7280; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
+                <p style="color: #5A5147; font-size: 0.78rem; margin-top: 12px; font-style: italic;">
                     ʚଓ Răspuns personal pe email · Nu uita să-ți treci adresa de email în formular
                 </p>
             </div>
@@ -181,7 +181,7 @@ const theoryHTML = `
             <div class="theory-box">
                 <h4>🔑 Toate verbele reflexive fac Perfekt cu HABEN</h4>
                 <p>Structura: <strong>haben (conjugat) + pronume reflexiv + Partizip II</strong> (la sfârșit). Pronumele reflexiv NU dispare — stă după auxiliar:</p>
-                <p style="text-align:center; font-size:1.05rem;">Er <strong style="color:#047857;">hat</strong> <strong style="color:#dc2626;">sich</strong> <strong>verabschiedet</strong>.<br><span style="color:#6b7280; font-style:italic;">Și-a luat rămas-bun.</span></p>
+                <p style="text-align:center; font-size:1.05rem;">Er <strong style="color:#047857;">hat</strong> <strong style="color:#dc2626;">sich</strong> <strong>verabschiedet</strong>.<br><span style="color:#5A5147; font-style:italic;">Și-a luat rămas-bun.</span></p>
             </div>
 
             <table class="grammar-table">
